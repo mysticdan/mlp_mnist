@@ -81,7 +81,7 @@ pip install jax jaxlib numpy datasets streamlit streamlit-drawable-canvas opencv
 
 ## Pulling Model from Hugging Face Hub
 
-The model is hosted on Hugging Face Hub (e.g. at `mysticdan/mnist-mlp`), you can download and load it in Python as follows:
+The model is hosted on Hugging Face Hub (e.g. at [`mysticdan/mnist-mlp`](https://huggingface.co/mysticdan/mlp-mnist)), you can download and load it in Python as follows:
 
 ```bash
 pip install huggingface_hub
