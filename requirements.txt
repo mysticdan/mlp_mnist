@@ -1,0 +1,6 @@
+datasets==3.6.0
+jax==0.6.0
+numpy==1.25.2
+opencv_python==4.11.0.86
+streamlit==1.47.1
+streamlit_drawable_canvas==0.9.3
